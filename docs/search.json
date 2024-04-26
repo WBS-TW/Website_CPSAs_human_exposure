@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TESTwebsite",
+    "title": "Are polychlorinated alkanes and structural analogues the dominant organochlorines in dietary and human samples?",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the website for our project funded by Formas."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project_description.html",
+    "href": "project_description.html",
+    "title": "About the project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The project goal"
   }
 ]

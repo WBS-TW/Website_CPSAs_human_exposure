@@ -3,12 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "TESTwebsite"
+  title: "CPs/PCA"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        file: index.qmd
+      - text: The project
+        menu:
+        - project_description.qmd
+      
+      - text: Introductions and Tutorials
+        menu:
+        - introductions.qmd
+        - tutorials.qmd
+        
+      - text: About the team
+        file: about_the_team.qmd
 
 format:
   html:
