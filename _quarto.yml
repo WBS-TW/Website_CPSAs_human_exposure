@@ -12,6 +12,9 @@ website:
         menu:
         - project_description.qmd
       
+      - text: Blog posts
+        file: dissemination.qmd
+      
       - text: Introductions and Tutorials
         menu:
         - introductions.qmd
