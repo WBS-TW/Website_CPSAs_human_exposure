@@ -2,4 +2,12 @@
 title: "Are polychlorinated alkanes and structural analogues the dominant organochlorines in dietary and human samples?"
 ---
 
-This is the website for our project funded by Formas.
+#### This is the draft website for our Formas project.
+
+#### The navigation bars will be refined and populated once the project will start. The website will be communicated to relevant stakeholders and other researchers through our networks and social media.
+
+#### The use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research.
+
+### 
+
+![Project overview and work packages](data/ProjectWorkPackages.png)
