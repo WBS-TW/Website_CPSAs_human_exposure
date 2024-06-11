@@ -4,20 +4,20 @@
     "href": "about_the_team.html#reference-group-members",
     "title": "About the project team",
     "section": "Reference group members",
-    "text": "Reference group members"
+    "text": "Reference group members\n\nTO BE UPDATED"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Are polychlorinated alkanes and structural analogues the dominant organochlorines in dietary and human samples?",
+    "title": "Polychlorinated alkanes (PCAs) and structural analogues: Exposure analysis of an extremely complex pollutant mixture threatening humans and the environment",
     "section": "",
-    "text": "This is the draft website for our Formas project.\n\n\nThe navigation bars will be refined and populated once the project will start. The website will be communicated to relevant stakeholders and other researchers through our networks and social media.\n\n\nThe use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring external web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research (or add other future funded projects in this topic).\n\n\n\n\n\n\nProject overview and work packages"
+    "text": "This is the draft website for our Formas project.\n\n\nThe navigation bars will be refined and populated once the project will start. The website will be communicated to relevant stakeholders and other researchers through our networks and social media.\n\n\nThe use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring external web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research (and to update with other future funded projects in this topic).\n\n\n\n\n\n\nProject overview and work packages"
   },
   {
     "objectID": "project_description.html",
     "href": "project_description.html",
     "title": "About the project",
     "section": "",
-    "text": "Polychlorinated paraffins and structural analogues (CPSAs) constitute the main fraction of extractable organochlorines in humans."
+    "text": "Humans are ubiquitously exposed to polychlorinated paraffins and structural analogues (CPSAs).\nCPSAs constitute the main fraction of extractable organochlorines in humans."
   }
 ]
