@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "CPs"
+  title: "CPSAs"
   navbar:
     left:
       - text: Home
