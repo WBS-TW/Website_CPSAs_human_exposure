@@ -1,12 +1,12 @@
 ---
-title: "Polychlorinated alkanes (PCAs): Exposure analysis of an extremely complex pollutant mixture threatening humans and the environment"
+title: "Polychlorinated alkanes (PCAs) and structural analogues: Exposure analysis of an extremely complex pollutant mixture threatening humans and the environment"
 ---
 
 #### This is the draft website for our Formas project.
 
 #### The navigation bars will be refined and populated once the project will start. The website will be communicated to relevant stakeholders and other researchers through our networks and social media.
 
-#### The use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring external web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research (or add other future funded projects in this topic).
+#### The use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring external web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research (and to update with other future funded projects in this topic).
 
 ### 
 

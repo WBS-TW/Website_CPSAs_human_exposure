@@ -4,6 +4,8 @@ title: "About the project"
 
 # The project hypothesis
 
-Polychlorinated paraffins and structural analogues (CPSAs) constitute the main fraction of extractable organochlorines in humans.
+-   Humans are ubiquitously exposed to polychlorinated paraffins and structural analogues (CPSAs).
+
+-   CPSAs constitute the main fraction of extractable organochlorines in humans.
 
 ## 
