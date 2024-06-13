@@ -1,5 +1,17 @@
 ---
 title: "Introduction to Chlorinated Paraffins"
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## What are Chlorinated Paraffins?
+
+Chlorinated paraffins (CPs) are commercial products that mainly consists of straight chain polychlorinated alkanes (PCAs). However, the CP products usually contain various impurities and byproducts that can make up a considerable proportion of the CP mixture. 
+
+```{r CP mixture diagram}
+
+library(DiagrammeR)
+
+
+
+```
