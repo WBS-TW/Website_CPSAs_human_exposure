@@ -1,15 +1,29 @@
 [
   {
+    "objectID": "introductions.html",
+    "href": "introductions.html",
+    "title": "Introduction to Chlorinated Paraffins",
+    "section": "",
+    "text": "Chlorinated paraffins (CPs) are commercial products that mainly consists of straight chain polychlorinated alkanes (PCAs). However, the CP products usually contain various impurities and byproducts that can make up a considerable proportion of the CP mixture.\n\nlibrary(DiagrammeR)"
+  },
+  {
+    "objectID": "introductions.html#what-are-chlorinated-paraffins",
+    "href": "introductions.html#what-are-chlorinated-paraffins",
+    "title": "Introduction to Chlorinated Paraffins",
+    "section": "",
+    "text": "Chlorinated paraffins (CPs) are commercial products that mainly consists of straight chain polychlorinated alkanes (PCAs). However, the CP products usually contain various impurities and byproducts that can make up a considerable proportion of the CP mixture.\n\nlibrary(DiagrammeR)"
+  },
+  {
     "objectID": "about_the_team.html#reference-group-members",
     "href": "about_the_team.html#reference-group-members",
     "title": "About the project team",
     "section": "Reference group members",
-    "text": "Reference group members\n\nTO BE UPDATED"
+    "text": "Reference group members\n\nMarkus Axelsson (SGS Analytics)\n\n\nBert-Ove Lund (Swedish Chemicals Agency)\n\n\nLinda Linderholm (Swedish Environmental Protection Agency)\n\n\nKarin Norström (Swedish Environmental Protection Agency)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Polychlorinated alkanes (PCAs) and structural analogues: Exposure analysis of an extremely complex pollutant mixture threatening humans and the environment",
+    "title": "Chlorinated Paraffins and structural analogues (CPSAs): Exposure analysis of an extremely complex pollutant mixture threatening human health and the environment",
     "section": "",
     "text": "This is the draft website for our Formas project.\n\n\nThe navigation bars will be refined and populated once the project will start. The website will be communicated to relevant stakeholders and other researchers through our networks and social media.\n\n\nThe use of the R package Quarto and Github pages makes it easy to create and maintain websites without hiring external web designers or website hotels. We aim to continue maintaining the website even after the project end to make the website a knowledge base for CPs research (and to update with other future funded projects in this topic).\n\n\n\n\n\n\nProject overview and work packages"
   },
