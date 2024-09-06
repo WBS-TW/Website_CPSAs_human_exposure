@@ -8,6 +8,8 @@ title: "About the project team"
 
 ### Henrik Green (Linköping University, Sweden)
 
+### Teresia Svensson (Linköping University, Sweden)
+
 ### Bo Yuan (NTNU, Norway)
 
 ### Irina Gyllenhammar (Swedish Food Agency)
@@ -25,5 +27,7 @@ title: "About the project team"
 ### Linda Linderholm (Swedish Environmental Protection Agency)
 
 ### Karin Norström (Swedish Environmental Protection Agency)
+
+### Åke Bergman (Örebro University)
 
 ### 
