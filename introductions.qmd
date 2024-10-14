@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Chlorinated Paraffins"
+title: "Introduction to chlorinated paraffins and polychlorinated alkanes"
 editor_options: 
   chunk_output_type: console
 ---

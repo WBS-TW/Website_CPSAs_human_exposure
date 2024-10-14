@@ -1,7 +1,7 @@
 ---
-title: "CPs blog"
+title: "CPSAs blog"
 ---
 
 ## 
 
-#### Here we will share news and our thoughts about CPs and research progresses from our group and others.
+#### Here we will share news and our thoughts about CPSAs and research progresses from our group and others.

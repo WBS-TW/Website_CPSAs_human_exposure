@@ -8,4 +8,4 @@ title: "About the project"
 
 -   CPSAs constitute the main fraction of extractable organochlorines in humans.
 
-## 
+![An illustration with examples on the concept and terminology of extractable organochlorine mass fractions, CPs and CPSAs. The terminologies of short chain (SCCPs), medium chain (MCCPs), and long chain chlorinated paraffins (LCCPs) are no longer recommended to use to describe the PCAs results, according to a recent study we participated in (Fernandes et al, 2023, doi.org/10.1016/j.trac.2023.117363).](data/EOCl_CPSAs_illustration.png)

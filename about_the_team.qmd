@@ -4,30 +4,34 @@ title: "About the project team"
 
 ## Team members
 
-### Thanh Wang (Linköping University, Sweden)
+Thanh Wang (Linköping University, Sweden)
 
-### Henrik Green (Linköping University, Sweden)
+Henrik Green (Linköping University, Sweden)
 
-### Teresia Svensson (Linköping University, Sweden)
+Teresia Svensson (Linköping University, Sweden)
 
-### Bo Yuan (NTNU, Norway)
+Bo Yuan (NTNU, Norway)
 
-### Irina Gyllenhammar (Swedish Food Agency)
+Irina Gyllenhammar (Swedish Food Agency)
 
-### Sanna Lignell (Swedish Food Agency)
+Sanna Lignell (Swedish Food Agency)
 
-### NN (PhD student)
+NN (PhD student)
+
+RE (Research Engineer)
+
+<br>
 
 ## Reference group members
 
-### Markus Axelsson (SGS Analytics)
+Markus Axelsson (SGS Analytics)
 
-### Bert-Ove Lund (Swedish Chemicals Agency)
+To be announced (Swedish Chemicals Agency)
 
-### Linda Linderholm (Swedish Environmental Protection Agency)
+Linda Linderholm (Swedish Environmental Protection Agency)
 
-### Karin Norström (Swedish Environmental Protection Agency)
+Karin Norström (Swedish Environmental Protection Agency)
 
-### Åke Bergman (Örebro University)
+Åke Bergman (Örebro University)
 
 ### 
