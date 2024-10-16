@@ -1,5 +1,5 @@
 ---
-title: "Tutorials for Chemical Analysis of CPs"
+title: "Tutorial on Chemical Analysis of CPs"
 ---
 
 ## 
